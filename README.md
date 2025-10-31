@@ -1,6 +1,6 @@
 # Eclipt Stylish
 
-A modern Flutter application demonstrating clean architecture, Firebase authentication, and state management with Riverpod.
+A small mobile app technical task demonstrating Firebase Authentication, Cloud Firestore, clean architecture, and Riverpod state management.
 
 ## Features
 
