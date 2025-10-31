@@ -1,0 +1,68 @@
+{
+  "@@locale": "en",
+  "@_CORE": {},
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "login": "Login",
+  "signup": "Sign Up",
+  "createAnAccount": "Create an Account",
+  "@_AUTH": {},
+  "welcomeBack": "Welcome Back!",
+  "createAnAccountTitle": "Create an account",
+  "emailHint": "Email",
+  "passwordHint": "Password",
+  "confirmPasswordHint": "Confirm Password",
+  "emailRequired": "Email is required",
+  "emailInvalid": "Please enter a valid email",
+  "passwordRequired": "Password is required",
+  "passwordTooShort": "Password must be at least 6 characters",
+  "passwordsDontMatch": "Passwords don't match",
+  "confirmPasswordRequired": "Please confirm your password",
+  "userNotFound": "No user found with this email",
+  "wrongPassword": "Incorrect password",
+  "emailAlreadyInUse": "Email is already in use",
+  "weakPassword": "Password is too weak",
+  "invalidEmail": "Invalid email address",
+  "networkError": "Network error. Please check your connection",
+  "unknownError": "An error occurred. Please try again",
+  "@_ONBOARDING": {},
+  "chooseProducts": "Choose Products",
+  "makePayment": "Make Payment",
+  "getYourOrder": "Get Your Order",
+  "onboardingDescription": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+  "skip": "Skip",
+  "prev": "Prev",
+  "next": "Next",
+  "getStarted": "Get Started",
+  "@_CREATE_ACCOUNT": {},
+  "iAlreadyHaveAnAccount": "I already have an account",
+  "createAccount": "Create Account",
+  "@_SET_UP_ACCOUNT": {},
+  "setUpAccount": "Set up \naccount",
+  "enterAnyText": "Enter any text",
+  "finish": "Finish",
+  "@_HOME": {},
+  "homeHeader": "Test completed",
+  "youAreSignedAs": "You are signed in as:\n{email}",
+  "@youAreSignedAs": {
+    "description": "You are signed in as:\n{email}",
+    "placeholders": {
+      "email": {
+        "type": "String",
+        "example": "example@email.com"
+      }
+    }
+  },
+  "yourTextIs": "Your text is:\n{text}",
+  "@yourTextIs": {
+    "description": "Your text is:\n{text}",
+    "placeholders": {
+      "text": {
+        "type": "String",
+        "example": "Sample text"
+      }
+    }
+  },
+  "logout": "Logout"
+}

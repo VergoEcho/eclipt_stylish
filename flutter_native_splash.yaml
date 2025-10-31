@@ -1,0 +1,26 @@
+# flutter_native_splash configuration
+# Run: flutter pub run flutter_native_splash:create
+
+flutter_native_splash:
+  # Logo image (1152x1152 with safe area)
+  image: assets/images/app/logo.png
+
+  # Background color (white to match theme)
+  color: "#FFFFFF"
+
+  # Fullscreen mode (immersive experience)
+  fullscreen: true
+
+  # Android-specific settings
+  android: true
+  android_12:
+    # Android 12+ splash screen API
+    image: assets/images/app/logo.png
+    color: "#FFFFFF"
+
+  # iOS-specific settings
+  ios: true
+  ios_content_mode: center
+
+  # Web settings (disabled for mobile-first app)
+  web: false
