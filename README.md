@@ -82,7 +82,7 @@ lib/
 
 1. **Clone and install dependencies**
 ```bash
-git clone <repository-url>
+git clone https://github.com/VergoEcho/eclipt_stylish.git
 cd eclipt_stylish
 flutter pub get
 ```
