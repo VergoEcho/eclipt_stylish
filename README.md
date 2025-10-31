@@ -76,7 +76,7 @@ lib/
 
 ### Prerequisites
 - Flutter SDK 3.9.2+
-- Firebase account (free tier)
+- Firebase account (currently working till 12.11.2025)
 
 ### Run project
 
